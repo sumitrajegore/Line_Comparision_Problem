@@ -10,6 +10,9 @@ public class Linecomparasion{
        double dist;
        dist = Math.sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1));
        System.out.println("distance between" + "("+x1+","+y1+"), " + "("+x2+","+y2+")"+"     "+dist);
-
+       System.out.println(x1==y1);
+       System.out.println(x1==y2);
+       System.out.println(x2==y1);
+       System.out.println(x2==y2);
 	}
 }
