@@ -15,8 +15,7 @@ public class Linecomparasion{
 			System.out.println(Integer.compare(x1, y1));
 			System.out.println(Integer.compare(x2, y2));
         	System.out.println(x1 == y1);
-      	System.out.println(x2 == y2);
-      
+      	System.out.println(x2 == y1);
 	}
 }
 
