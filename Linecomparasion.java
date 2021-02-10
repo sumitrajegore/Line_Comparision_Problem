@@ -36,4 +36,3 @@ public class Linecomparasion
         obj.compare();
        }
 }
-
